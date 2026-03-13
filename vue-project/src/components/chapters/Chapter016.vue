@@ -1,0 +1,128 @@
+<template>
+    <div class="text-center text-4xl font-black font-serif">
+        XVI
+    </div>
+    <div v-if="show_subtext" class="text-center text-2xl font-bold font-serif">
+        <div class="h-4"></div>
+        Visiting the Pumpkin-Field
+    </div>
+    <div class="h-16"></div>
+    <div>
+Dorothy let Button-Bright wind up the clockwork in the copper man this morning⁠—his thinking machine first, then his speech, and finally his action; so he would doubtless run perfectly until they had reached the Emerald City. The copper man and the tin man were good friends, and not so much alike as you might think. For one was alive and the other moved by means of machinery; one was tall and angular and the other short and round. You could love the Tin Woodman because he had a fine nature, kindly and simple; but the machine man you could only admire without loving, since to love such a thing as he was as impossible as to love a sewing-machine or an automobile. Yet Tik-tok was popular with the people of Oz because he was so trustworthy, reliable and true; he was sure to do exactly what he was wound up to do, at all times and in all circumstances. Perhaps it is better to be a machine that does its duty than a flesh-and-blood person who will not, for a dead truth is better than a live falsehood.
+</div>
+<div>
+About noon the travelers reached a large field of pumpkins⁠—a vegetable quite appropriate to the yellow country of the Winkies⁠—and some of the pumpkins which grew there were of remarkable size. Just before they entered upon this field they saw three little mounds that looked like graves, with a pretty headstone to each one of them.
+</div>
+<div>
+“What is this?” asked Dorothy, in wonder.
+</div>
+<div>
+“It’s Jack Pumpkinhead’s private graveyard,” replied the Tin Woodman.
+</div>
+<div>
+“But I thought nobody ever died in Oz,” she said.
+</div>
+<div>
+“Nor do they; although if one is bad, he may be condemned and killed by the good citizens,” he answered.
+</div>
+<div>
+Dorothy ran over to the little graves and read the words engraved upon the tombstones. The first one said:
+</div>
+<div>
+Here Lies the Mortal Part of
+</div>
+<div>
+Jack Pumpkinhead
+</div>
+<div>
+Which Spoiled April 9th.
+</div>
+<div>
+She then went to the next stone, which read:
+</div>
+<div>
+Here Lies the Mortal Part of
+</div>
+<div>
+Jack Pumpkinhead
+</div>
+<div>
+Which Spoiled October 2nd.
+</div>
+<div>
+On the third stone were carved these words:
+</div>
+<div>
+Here Lies the Mortal Part of
+</div>
+<div>
+Jack Pumpkinhead
+</div>
+<div>
+Which Spoiled January 24th.
+</div>
+<div>
+“Poor Jack!” sighed Dorothy. “I’m sorry he had to die in three parts, for I hoped to see him again.”
+</div>
+<div>
+“So you shall,” declared the Tin Woodman, “since he is still alive. Come with me to his house, for Jack is now a farmer and lives in this very pumpkin field.”
+</div>
+<div>
+They walked over to a monstrous big, hollow pumpkin which had a door and windows cut through the rind. There was a stovepipe running through the stem, and six steps had been built leading up to the front door.
+</div>
+<div>
+They walked up to this door and looked in. Seated on a bench was a man clothed in a spotted shirt, a red vest, and faded blue trousers, whose body was merely sticks of wood, jointed clumsily together. On his neck was set a round, yellow pumpkin, with a face carved on it such as a boy often carves on a jack-lantern.
+</div>
+<div>
+This queer man was engaged in snapping slippery pumpkinseeds with his wooden fingers, trying to hit a target on the other side of the room with them. He did not know he had visitors until Dorothy exclaimed:
+</div>
+<div>
+“Why, it’s Jack Pumpkinhead himself!”
+</div>
+<div>
+He turned and saw them, and at once came forward to greet the little Kansas girl and Nick Chopper, and to be introduced to their new friends.
+</div>
+<div>
+Button-Bright was at first rather shy with the quaint Pumpkinhead, but Jack’s face was so jolly and smiling⁠—being carved that way⁠—that the boy soon grew to like him.
+</div>
+<div>
+“I thought a while ago that you were buried in three parts,” said Dorothy, “but now I see you’re just the same as ever.”
+</div>
+<div>
+“Not quite the same, my dear, for my mouth is a little more one-sided than it used to be; but pretty nearly the same. I’ve a new head, and this is the fourth one I’ve owned since Ozma first made me and brought me to life by sprinkling me with the Magic Powder.”
+</div>
+<div>
+“What became of the other heads, Jack?”
+</div>
+<div>
+“They spoiled and I buried them, for they were not even fit for pies. Each time Ozma has carved me a new head just like the old one, and as my body is by far the largest part of me, I am still Jack Pumpkinhead, no matter how often I change my upper end. Once we had a dreadful time to find another pumpkin, as they were out of season, and so I was obliged to wear my old head a little longer than was strictly healthy. But after this sad experience I resolved to raise pumpkins myself, so as never to be caught again without one handy; and now I have this fine field that you see before you. Some grow pretty big⁠—too big to be used for heads⁠—so I dug out this one and use it for a house.”
+</div>
+<div>
+“Isn’t it damp?” asked Dorothy.
+</div>
+<div>
+“Not very. There isn’t much left but the shell, you see, and it will last a long time yet.”
+</div>
+<div>
+“I think you are brighter than you used to be, Jack,” said the Tin Woodman. “Your last head was a stupid one.”
+</div>
+<div>
+“The seeds in this one are better,” was the reply.
+</div>
+<div>
+“Are you going to Ozma’s party?” asked Dorothy.
+</div>
+<div>
+“Yes,” said he, “I wouldn’t miss it for anything. Ozma’s my parent, you know, because she built my body and carved my pumpkin head. I’ll follow you to the Emerald City tomorrow, where we shall meet again. I can’t go today, because I have to plant fresh pumpkinseeds and water the young vines. But give my love to Ozma, and tell her I’ll be there in time for the jubilation.”
+</div>
+<div>
+“We will,” she promised; and then they all left him and resumed their journey.
+</div>
+
+</template>
+
+<script setup>
+
+const show_subtext = true
+
+</script>
